@@ -12,5 +12,4 @@
 - Gaming – [@OmnicPanda](https://twitter.com/OmnicPanda)
 
 ### LinkedIn
-- [Project Management](https://www.linkedin.com/in/pulkitmitt/)
-- [Web Architecture/Engineering](https://www.linkedin.com/in/onbeatpanda/)
+- [Web Architecture/Engineering](https://www.linkedin.com/in/CoffeelessProgrammer/)
